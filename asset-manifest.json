@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.482e4361.chunk.css",
-    "main.js": "/portfolio/static/js/main.035998d3.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.035998d3.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.b32690ef.chunk.css",
+    "main.js": "/portfolio/static/js/main.2ec1028a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2ec1028a.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.598a115b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.598a115b.js.map",
     "static/css/2.a4b345fe.chunk.css": "/portfolio/static/css/2.a4b345fe.chunk.css",
     "static/js/2.c6bcd0de.chunk.js": "/portfolio/static/js/2.c6bcd0de.chunk.js",
     "static/js/2.c6bcd0de.chunk.js.map": "/portfolio/static/js/2.c6bcd0de.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.3e3ce3e01f2472b08c5351d584af86d8.js": "/portfolio/precache-manifest.3e3ce3e01f2472b08c5351d584af86d8.js",
+    "precache-manifest.8b37789bf60e87cef756dbdc1fd7fc84.js": "/portfolio/precache-manifest.8b37789bf60e87cef756dbdc1fd7fc84.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.a4b345fe.chunk.css.map": "/portfolio/static/css/2.a4b345fe.chunk.css.map",
-    "static/css/main.482e4361.chunk.css.map": "/portfolio/static/css/main.482e4361.chunk.css.map",
+    "static/css/main.b32690ef.chunk.css.map": "/portfolio/static/css/main.b32690ef.chunk.css.map",
     "static/js/2.c6bcd0de.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c6bcd0de.chunk.js.LICENSE.txt",
     "static/media/Nishanth.jpg": "/portfolio/static/media/Nishanth.737a2bb0.jpg",
     "static/media/Traffic Sign.jpg": "/portfolio/static/media/Traffic Sign.b2378b17.jpg",
@@ -25,7 +25,7 @@
     "static/media/instaclone3.jpg": "/portfolio/static/media/instaclone3.40dd3a07.jpg",
     "static/media/instaclone4.png": "/portfolio/static/media/instaclone4.ff7e02c2.png",
     "static/media/obj-recog.png": "/portfolio/static/media/obj-recog.df73db85.png",
-    "static/media/practo.svg": "/portfolio/static/media/practo.96115ac9.svg",
+    "static/media/practo.svg": "/portfolio/static/media/practo.3b0f7e82.svg",
     "static/media/practo1.png": "/portfolio/static/media/practo1.47b47045.png",
     "static/media/practo2.png": "/portfolio/static/media/practo2.5c167650.png",
     "static/media/practo3.png": "/portfolio/static/media/practo3.13edc0fe.png",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.598a115b.js",
     "static/css/2.a4b345fe.chunk.css",
     "static/js/2.c6bcd0de.chunk.js",
-    "static/css/main.482e4361.chunk.css",
-    "static/js/main.035998d3.chunk.js"
+    "static/css/main.b32690ef.chunk.css",
+    "static/js/main.2ec1028a.chunk.js"
   ]
 }
